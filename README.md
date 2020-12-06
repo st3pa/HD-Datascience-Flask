@@ -8,7 +8,7 @@ numpy
 sklearn
 pickle
 
-![](imgs/capture.png)
+![](imgs/Capture.png)
 
 OLS REGRESSION RESULTS
 Dep. Variable:	y	R-squared:	0.383
